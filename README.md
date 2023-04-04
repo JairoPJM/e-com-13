@@ -30,6 +30,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - [License](#license)
 
 ## Installation
+- [Step 1](First clone the repo)
 -Step 1: First clone the repo
 -step 2: Run npm I to install all the dependencies
 -step 3: source the databases with mysql
