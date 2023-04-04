@@ -36,7 +36,7 @@ step 3: source the databases with mysql
 step 4: create a .env file with DB_NAME,DB_USER,and DB_PW
 step 5: run node seeds and then run npm start to start the application fully
 ## Usage 💡
-https://user-images.githubusercontent.com/111899130/224824772-8cd5f794-6490-4582-b643-8215a6b66711.mp4
+https://user-images.githubusercontent.com/111899130/229890866-db089e76-7931-4c32-a9e4-4b81409ffe69.mp4
 
 
 ## License ![License Badge](https://img.shields.io/badge/license-Unlicense-blue.svg)
