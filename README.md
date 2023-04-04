@@ -34,9 +34,8 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Step 2](Run npm I to install all the dependencies)
 - [Step 3](source the databases with mysql)
 - [Step 4](create a .env file with DB_NAME,DB_USER,and DB_PW)
+- [Step 5](run node seeds and then run npm start to start the application fully)
 
--step 4: create a .env file with DB_NAME,DB_USER,and DB_PW
--step 5: run node seeds and then run npm start to start the application fully
 ## Usage 💡
 https://user-images.githubusercontent.com/111899130/229890866-db089e76-7931-4c32-a9e4-4b81409ffe69.mp4
 
